@@ -1,0 +1,12 @@
+ul li:nth-last-child(even){
+
+    color: red;
+}
+
+ol {
+    color: blue;
+}
+
+ol li{
+    color: red;
+}

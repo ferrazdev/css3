@@ -1,0 +1,9 @@
+.cor_de_fundo{
+    height: 300px;
+    width: 300px;
+   
+    /*background-color: darkviolet;*/
+
+    background-image: linear-gradiente,  #98A7F3 - #78DC82, red;
+
+}

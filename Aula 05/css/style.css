@@ -1,0 +1,13 @@
+.posicao{
+    height: 164px;
+    width: 164px;
+    background-color: aquamarine;
+    position: sticky;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+
+
+
+}
