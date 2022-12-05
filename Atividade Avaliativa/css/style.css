@@ -1,4 +1,4 @@
-ul li:nth-last-child(even){
+ul li:nth-child(even){
 
     color: red;
 }
@@ -9,4 +9,20 @@ ol {
 
 ol li{
     color: red;
+}
+
+p:hover {
+   
+    color: red;   
+}
+
+.div sus {
+
+    background-color: #000;
+    color: #fff;
+    width: 50px;
+    height: 125px;
+    margin-left: -26px;
+    margin-right: -26px;
+
 }
