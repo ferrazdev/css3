@@ -3,7 +3,7 @@ ul li:nth-child(even){
     color: red;
 }
 
-ol {
+ol li::marker{
     color: blue;
 }
 
