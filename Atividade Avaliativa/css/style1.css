@@ -1,0 +1,20 @@
+p { 
+    width: 600px;
+   margin: 20px 10px 20px 10px ;
+   padding: 20px 10px 20px 10px;
+   border: 5px solid;
+}
+
+.principal {
+    width: 700px;
+    border: 5px solid blue;
+    padding: 20px;
+}
+
+.principal div {
+    height: 20px;
+    width: 600px;
+    padding: 05px 10px 10px 05px;
+    border: 2px solid red;
+    margin: 20px;
+}
