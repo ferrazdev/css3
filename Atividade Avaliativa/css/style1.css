@@ -1,5 +1,5 @@
 p { 
-    width: 600px;
+    width: 500px;
    margin: 20px 10px 20px 10px ;
    padding: 20px 10px 20px 10px;
    border: 5px solid;
@@ -17,4 +17,16 @@ p {
     padding: 05px 10px 10px 05px;
     border: 2px solid red;
     margin: 20px;
+}
+
+.profile {
+    border-style:dashed 100px solid orange;
+}
+
+.profile div {
+    border-radius-style: 50px solid blue ;
+}
+
+.profile div+div {
+    border-style: double 10px green;
 }
